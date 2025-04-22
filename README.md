@@ -26,7 +26,7 @@ Node.js: Optional, only if you plan to extend the frontend further.
 Setup Instructions
 Backend Setup
 Clone the Repository:
-git clone https://github.com/Shreyas202003/email-writer-assistant.git
+git clone https://github.com/Shreyas202003/Email-Writer-Assistant.git
 cd email-writer-assistant
 
 Configure Environment:
