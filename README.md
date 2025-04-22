@@ -26,7 +26,7 @@ Node.js: Optional, only if you plan to extend the frontend further.
 Setup Instructions
 Backend Setup
 Clone the Repository:
-git clone https://github.com/your-username/email-writer-assistant.git
+git clone https://github.com/Shreyas202003/email-writer-assistant.git
 cd email-writer-assistant
 
 Configure Environment:
@@ -35,10 +35,6 @@ Open backend/src/main/resources/application.properties.
 Set your API key and URL:
 gemini.api.key=YOUR_GEMINI_API_KEY
 gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
-
-Alternatively, set environment variables:
-export GEMINI_KEY=YOUR_GEMINI_API_KEY
-export GEMINI_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
 
 Build and Run:
 cd backend
